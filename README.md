@@ -9,7 +9,7 @@ Me chamo Gabriel Peres, tenho 26 anos e sou natural do Paraná. Sou apaixonado p
         <img 
             alt="Instagram" 
             title="Instagram" 
-            src="https://custom-icon-badges.demolab.com/badge/gabecperes-red?style=for-the-badge&logo=mention&logoColor=white"
+            src="https://custom-icon-badges.demolab.com/badge/instagram-red?style=for-the-badge&logo=mention&logoColor=white"
         />
     </a>
     <a href="https://gabeperes.github.io/AboutMe/">
