@@ -9,6 +9,7 @@ Me chamo Gabriel Peres, tenho 26 anos e sou natural do Paraná. Sou apaixonado p
         <img 
             alt="Instagram" 
             title="Instagram" 
+            style="padding-right: 10px;"
             src="https://custom-icon-badges.demolab.com/badge/instagram-red?style=for-the-badge&logo=mention&logoColor=white"
         />
     </a>
@@ -16,6 +17,7 @@ Me chamo Gabriel Peres, tenho 26 anos e sou natural do Paraná. Sou apaixonado p
         <img 
             alt="Currículo" 
             title="Mais sobre mim" 
+            style="padding-right: 10px;"
             src="https://custom-icon-badges.demolab.com/badge/-sobre mim-plum?style=for-the-badge&logo=user&logoColor=black"
         />
     </a> 
@@ -23,6 +25,7 @@ Me chamo Gabriel Peres, tenho 26 anos e sou natural do Paraná. Sou apaixonado p
         <img 
             alt="Seguidores" 
             title="Me siga no GitHub" 
+            style="padding-right: 10px;"
             src="https://custom-icon-badges.demolab.com/github/followers/GabePeres?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
         />
     </a>
