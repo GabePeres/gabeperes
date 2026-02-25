@@ -119,15 +119,17 @@ Me chamo Gabriel Peres, tenho 26 anos e sou natural do Paraná. Sou apaixonado p
 
 ### 📊 Estatísticas
 
-<div style="display: flex; justify-content: flex-start; align-items: flex-start; gap: 10px;">
+<p>
   <img 
     alt="GitHub Stats" 
     height="200" 
+    style="display: inline-block; margin-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=GabePeres&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
   <img 
     alt="GitHub Top Langs" 
     height="200" 
+    style="display: inline-block;" 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabeperes&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
-</div>
+</p>
